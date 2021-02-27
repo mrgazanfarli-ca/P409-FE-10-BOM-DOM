@@ -1,0 +1,10 @@
+.main__container {
+    height: 200px;
+    background-color: #477774;
+    width: 100%;
+}
+
+.main__container.active {
+    background-color: #db2147;
+    width: 50%;
+}
